@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwC3OPURcZb4VK3IZypWbalQk046rvZ7Cb7KwnPRWaRnMCPNFYUJpkA25lty3b1ryo/aCr6N9fVnrKni+9lrhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APRABHAV\\OneDrive - Unisys\\Selenium-Csharp\\CSharpConceptSln\\SeleniumConcepts\\SeleniumConcepts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APRABHAV\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\APRABHAV\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\APRABHAV\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
